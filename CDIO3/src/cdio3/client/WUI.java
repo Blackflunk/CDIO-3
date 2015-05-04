@@ -1,6 +1,7 @@
 package cdio3.client;
 
 import com.google.gwt.user.client.ui.Composite;
+import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.VerticalPanel;
 
 public class WUI extends Composite implements IWUI {
@@ -17,6 +18,9 @@ public class WUI extends Composite implements IWUI {
 		
 		this.contentPanel = new VerticalPanel();
 		this.vPanel.add(contentPanel);
+		
+		Label textLabel = new Label("Tryk en knap for at se et landskab!");
+		this.contentPanel.add(textLabel);
 	}
 
 
