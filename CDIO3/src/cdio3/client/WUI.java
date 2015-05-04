@@ -2,6 +2,7 @@ package cdio3.client;
 
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.Label;
+import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 
 public class WUI extends Composite implements IWUI {
@@ -29,7 +30,9 @@ public class WUI extends Composite implements IWUI {
 	public void openCreateAccount() {
 		this.contentPanel.clear();
 		Label textLabel = new Label("Her kan du oprette bruger.");
+		TextBox textbox = new TextBox();
 		this.contentPanel.add(textLabel);
+		this.contentPanel.add(textbox);
 	}
 
 
