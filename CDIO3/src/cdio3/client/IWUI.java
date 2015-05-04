@@ -11,3 +11,4 @@ public interface IWUI {
 	public void ExitSite();
 	
 }
+ 
