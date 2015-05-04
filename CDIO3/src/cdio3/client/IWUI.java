@@ -6,9 +6,9 @@ public interface IWUI {
 	public void openLoginAccount();
 	
 	public void openAccountManagement();
-	public void logOut();
+	public void openLogoutAccount();
 	
-	public void ExitSite();
+	public void openExitSite();
 	
 }
  

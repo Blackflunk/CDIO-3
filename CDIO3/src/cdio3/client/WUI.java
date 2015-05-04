@@ -28,22 +28,27 @@ public class WUI extends Composite implements IWUI {
 	// En mulighed før brugeren er logget ind.
 	public void openCreateAccount() {
 		this.contentPanel.clear();
-		
+		Label textLabel = new Label("Her kan du oprette bruger.");
+		this.contentPanel.add(textLabel);
 	}
 
 
 	@Override
 	// En mulighed før brugeren er logget ind.
 	public void openLoginAccount() {
-		// TODO Auto-generated method stub
+		this.contentPanel.clear();
+		Label textLabel = new Label("Her kan du logge ind.");
+		this.contentPanel.add(textLabel);
 		
 	}
 
 
 	@Override
 	// Altid en mulighed.
-	public void ExitSite() {
-		// TODO Auto-generated method stub
+	public void openExitSite() {
+		this.contentPanel.clear();
+		Label textLabel = new Label("Du har logget ud og lukket.");
+		this.contentPanel.add(textLabel);
 		
 	}
 
@@ -51,16 +56,19 @@ public class WUI extends Composite implements IWUI {
 	@Override
 	// Åbnes når bruger er logget ind.
 	public void openAccountManagement() {
-		
+		this.contentPanel.clear();
+		Label textLabel = new Label("Her er dine bruger indstillinger.");
+		this.contentPanel.add(textLabel);
 		
 	}
 
 
 	@Override
 	// En mulighed når brugeren er logget ind.
-	public void logOut() {
-		// TODO Auto-generated method stub
-		
+	public void openLogoutAccount() {
+		this.contentPanel.clear();
+		Label textLabel = new Label("Du er logget ud.");
+		this.contentPanel.add(textLabel);
 	}
 	
 	

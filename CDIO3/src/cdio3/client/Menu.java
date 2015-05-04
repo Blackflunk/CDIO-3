@@ -1,11 +1,10 @@
 package cdio3.client;
 
+import com.google.gwt.event.dom.client.ClickEvent;
+import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.HorizontalPanel;
-
-import edu.example.client.MenuView.LS1ClickHandler;
-import edu.example.client.MenuView.LS2ClickHandler;
 
 public class Menu extends Composite {
 	private HorizontalPanel hPanel = new HorizontalPanel();
@@ -25,27 +24,73 @@ public class Menu extends Composite {
 	
 	}
 	
-	public void loggedinButtons(){
+	public void loggedoutButtons(){
 		Button login = new Button("Login");
-		login.addClickHandler(new LS1ClickHandler());
+		login.addClickHandler(new LoginClickHandler());
 		this.hPanel.add(login);
 		
 		Button createaccount = new Button("Create account");
-		createaccount.addClickHandler(new LS2ClickHandler());
+		createaccount.addClickHandler(new CreateAccountClickHandler());
 		this.hPanel.add(createaccount);
 		
 		Button exitsite = new Button("Exit site");
-		exitsite.addClickHandler(new LS1ClickHandler());
+		exitsite.addClickHandler(new ExitSiteClickHandler());
 		this.hPanel.add(exitsite);
 	}
 	
-	public void loggedoutButtons(){
+	public void loggedinButtons(){
 		Button accman = new Button("Account management");
-		accman.addClickHandler(new LS1ClickHandler());
+		accman.addClickHandler(new AccountManagementClickHandler());
 		this.hPanel.add(accman);
 		
 		Button logout = new Button("Logout");
-		logout.addClickHandler(new LS2ClickHandler());
+		logout.addClickHandler(new LogoutClickHandler());
 		this.hPanel.add(logout);
+	}
+	
+	
+	private class LoginClickHandler implements ClickHandler {
+
+		@Override
+		public void onClick(ClickEvent event) {
+			wui.openLoginAccount();
+				
+		}
+	}
+	
+	private class LogoutClickHandler implements ClickHandler {
+
+		@Override
+		public void onClick(ClickEvent event) {
+			wui.openLogoutAccount();
+				
+		}
+	}
+	
+	private class CreateAccountClickHandler implements ClickHandler {
+
+		@Override
+		public void onClick(ClickEvent event) {
+			wui.openCreateAccount();
+				
+		}
+	}
+	
+	private class ExitSiteClickHandler implements ClickHandler {
+
+		@Override
+		public void onClick(ClickEvent event) {
+			wui.openExitSite();
+				
+		}
+	}
+	
+	private class AccountManagementClickHandler implements ClickHandler {
+
+		@Override
+		public void onClick(ClickEvent event) {
+			wui.openAccountManagement();
+				
+		}
 	}
 }
