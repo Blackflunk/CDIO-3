@@ -565,3 +565,2669 @@ Rebinding cdio3.client.test_testUiBinderImpl_designTime1430744691908_GenBundle
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
+Rebinding cdio3.client.test.testUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745330522.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.test_testUiBinderImpl_designTime1430745330522.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745330522_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2743 units from cache.
+Compiling...
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11,42 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test.testUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745528648.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.test_testUiBinderImpl_designTime1430745528648.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745528648_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.MenuBar.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method menuBarSubMenuIcon
+         Adding image 'com.google.gwt.user.client.ui.MenuBar.Resources.menuBarSubMenuIcon'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test.testUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745529220.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.test_testUiBinderImpl_designTime1430745529220.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745529220_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test.testUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745540430.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.test_testUiBinderImpl_designTime1430745540430.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745540430_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test.testUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745735822.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.test_testUiBinderImpl_designTime1430745735822.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745735822_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test.testUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745738575.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.test_testUiBinderImpl_designTime1430745738575.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745738575_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test.testUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745740605.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.test_testUiBinderImpl_designTime1430745740605.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding cdio3.client.test_testUiBinderImpl_designTime1430745740605_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2743 units from cache.
+Compiling...
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 12,06 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746163086.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746163086.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746163086_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746163451.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746163451.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746163451_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746225012.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746225012.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746225012_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746298984.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746298984.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746298984_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746311389.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746311389.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746311389_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.MenuBar.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method menuBarSubMenuIcon
+         Adding image 'com.google.gwt.user.client.ui.MenuBar.Resources.menuBarSubMenuIcon'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746337320.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746337320.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746337320_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746337402.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746337402.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746337402_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746350212.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746350212.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746350212_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746356868.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746356868.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746356868_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746371843.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746371843.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746371843_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746374620.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746374620.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746374620_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746377486.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746377486.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746377486_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746385752.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746385752.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746385752_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746522950.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746522950.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430746522950_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2743 units from cache.
+Compiling...
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 14,59 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+      Line 27: button cannot be resolved
+      Line 31: button cannot be resolved
+      Line 35: button cannot be resolved
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+[ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+   [ERROR] Line 27: button cannot be resolved
+   [ERROR] Line 31: button cannot be resolved
+   [ERROR] Line 35: button cannot be resolved
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+         [ERROR] Line 27: button cannot be resolved
+         [ERROR] Line 31: button cannot be resolved
+         [ERROR] Line 35: button cannot be resolved
+      [ERROR] Unable to find type 'cdio3.client.Menu1.Menu1UiBinder'
+         [ERROR] Hint: Previous compiler errors may have made this type unavailable
+         [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+[ERROR] Deferred binding failed for 'cdio3.client.Menu1.Menu1UiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2743 cached/archived units.  Used 2743 / 2743 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+      Line 27: button cannot be resolved
+      Line 31: button cannot be resolved
+      Line 35: button cannot be resolved
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+   [ERROR] Line 27: button cannot be resolved
+   [ERROR] Line 31: button cannot be resolved
+   [ERROR] Line 35: button cannot be resolved
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+         [ERROR] Line 27: button cannot be resolved
+         [ERROR] Line 31: button cannot be resolved
+         [ERROR] Line 35: button cannot be resolved
+      [ERROR] Unable to find type 'cdio3.client.Menu1.Menu1UiBinder'
+         [ERROR] Hint: Previous compiler errors may have made this type unavailable
+         [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+[ERROR] Deferred binding failed for 'cdio3.client.Menu1.Menu1UiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2743 cached/archived units.  Used 2743 / 2743 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+      Line 27: button cannot be resolved
+      Line 31: button cannot be resolved
+      Line 35: button cannot be resolved
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+   [ERROR] Line 27: button cannot be resolved
+   [ERROR] Line 31: button cannot be resolved
+   [ERROR] Line 35: button cannot be resolved
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+         [ERROR] Line 27: button cannot be resolved
+         [ERROR] Line 31: button cannot be resolved
+         [ERROR] Line 35: button cannot be resolved
+      [ERROR] Unable to find type 'cdio3.client.Menu1.Menu1UiBinder'
+         [ERROR] Hint: Previous compiler errors may have made this type unavailable
+         [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+[ERROR] Deferred binding failed for 'cdio3.client.Menu1.Menu1UiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2743 cached/archived units.  Used 2743 / 2743 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+      Line 27: button cannot be resolved
+      Line 31: button cannot be resolved
+      Line 35: button cannot be resolved
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+   [ERROR] Line 27: button cannot be resolved
+   [ERROR] Line 31: button cannot be resolved
+   [ERROR] Line 35: button cannot be resolved
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+         [ERROR] Line 27: button cannot be resolved
+         [ERROR] Line 31: button cannot be resolved
+         [ERROR] Line 35: button cannot be resolved
+      [ERROR] Unable to find type 'cdio3.client.Menu1.Menu1UiBinder'
+         [ERROR] Hint: Previous compiler errors may have made this type unavailable
+         [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+[ERROR] Deferred binding failed for 'cdio3.client.Menu1.Menu1UiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2743 cached/archived units.  Used 2743 / 2743 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+      Line 27: button cannot be resolved
+      Line 31: button cannot be resolved
+      Line 35: button cannot be resolved
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+   [ERROR] Line 27: button cannot be resolved
+   [ERROR] Line 31: button cannot be resolved
+   [ERROR] Line 35: button cannot be resolved
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+         [ERROR] Line 27: button cannot be resolved
+         [ERROR] Line 31: button cannot be resolved
+         [ERROR] Line 35: button cannot be resolved
+      [ERROR] Unable to find type 'cdio3.client.Menu1.Menu1UiBinder'
+         [ERROR] Hint: Previous compiler errors may have made this type unavailable
+         [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+[ERROR] Deferred binding failed for 'cdio3.client.Menu1.Menu1UiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2743 cached/archived units.  Used 2743 / 2743 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+      Line 27: button cannot be resolved
+      Line 31: button cannot be resolved
+      Line 35: button cannot be resolved
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+   [ERROR] Line 27: button cannot be resolved
+   [ERROR] Line 31: button cannot be resolved
+   [ERROR] Line 35: button cannot be resolved
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+         [ERROR] Line 27: button cannot be resolved
+         [ERROR] Line 31: button cannot be resolved
+         [ERROR] Line 35: button cannot be resolved
+      [ERROR] Unable to find type 'cdio3.client.Menu1.Menu1UiBinder'
+         [ERROR] Hint: Previous compiler errors may have made this type unavailable
+         [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+[ERROR] Deferred binding failed for 'cdio3.client.Menu1.Menu1UiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2743 cached/archived units.  Used 2743 / 2743 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+      Line 27: button cannot be resolved
+      Line 31: button cannot be resolved
+      Line 35: button cannot be resolved
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+   [ERROR] Line 27: button cannot be resolved
+   [ERROR] Line 31: button cannot be resolved
+   [ERROR] Line 35: button cannot be resolved
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+         [ERROR] Line 27: button cannot be resolved
+         [ERROR] Line 31: button cannot be resolved
+         [ERROR] Line 35: button cannot be resolved
+      [ERROR] Unable to find type 'cdio3.client.Menu1.Menu1UiBinder'
+         [ERROR] Hint: Previous compiler errors may have made this type unavailable
+         [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+[ERROR] Deferred binding failed for 'cdio3.client.Menu1.Menu1UiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2743 cached/archived units.  Used 2743 / 2743 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+      Line 27: button cannot be resolved
+      Line 31: button cannot be resolved
+      Line 35: button cannot be resolved
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+   [ERROR] Line 27: button cannot be resolved
+   [ERROR] Line 31: button cannot be resolved
+   [ERROR] Line 35: button cannot be resolved
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+         [ERROR] Line 27: button cannot be resolved
+         [ERROR] Line 31: button cannot be resolved
+         [ERROR] Line 35: button cannot be resolved
+      [ERROR] Unable to find type 'cdio3.client.Menu1.Menu1UiBinder'
+         [ERROR] Hint: Previous compiler errors may have made this type unavailable
+         [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+[ERROR] Deferred binding failed for 'cdio3.client.Menu1.Menu1UiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2743 cached/archived units.  Used 2743 / 2743 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+      Line 27: button cannot be resolved
+      Line 31: button cannot be resolved
+      Line 35: button cannot be resolved
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+   [ERROR] Line 27: button cannot be resolved
+   [ERROR] Line 31: button cannot be resolved
+   [ERROR] Line 35: button cannot be resolved
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/Menu1.java'
+         [ERROR] Line 27: button cannot be resolved
+         [ERROR] Line 31: button cannot be resolved
+         [ERROR] Line 35: button cannot be resolved
+      [ERROR] Unable to find type 'cdio3.client.Menu1.Menu1UiBinder'
+         [ERROR] Hint: Previous compiler errors may have made this type unavailable
+         [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+[ERROR] Deferred binding failed for 'cdio3.client.Menu1.Menu1UiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2743 units from cache.
+Compiling...
+   30% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 17,13 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430747818902.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430747818902.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430747818902_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.MenuBar.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method menuBarSubMenuIcon
+         Adding image 'com.google.gwt.user.client.ui.MenuBar.Resources.menuBarSubMenuIcon'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430747819389.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430747819389.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430747819389_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2743 units from cache.
+Compiling...
+   40% complete (ETR: 8 seconds)
+   40% complete (ETR: 8 seconds)
+   40% complete (ETR: 8 seconds)
+   40% complete (ETR: 8 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 14,36 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748083129.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748083129.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748083129_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748083497.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748083497.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748083497_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748091210.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748091210.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748091210_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748109143.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748109143.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748109143_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748109214.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748109214.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748109214_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748140367.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748140367.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748140367_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.MenuBar.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method menuBarSubMenuIcon
+         Adding image 'com.google.gwt.user.client.ui.MenuBar.Resources.menuBarSubMenuIcon'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748150921.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748150921.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748150921_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748183448.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748183448.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748183448_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748193249.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748193249.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748193249_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748228828.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748228828.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748228828_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748235171.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748235171.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748235171_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748301643.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748301643.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748301643_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748321244.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748321244.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748321244_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748324301.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748324301.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748324301_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748331233.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748331233.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748331233_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748337621.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748337621.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748337621_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748342028.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748342028.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748342028_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748343569.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748343569.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748343569_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748346914.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748346914.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430748346914_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430749527431.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430749527431.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430749527431_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430749534330.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430749534330.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430749534330_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430749539438.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430749539438.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430749539438_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750536091.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750536091.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750536091_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750537395.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750537395.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750537395_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750569461.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750569461.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750569461_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750571915.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750571915.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750571915_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750576227.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750576227.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750576227_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750590390.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750590390.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750590390_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750707974.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750707974.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750707974_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750714599.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750714599.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750714599_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750717268.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750717268.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750717268_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750719585.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750719585.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750719585_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750723994.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750723994.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750723994_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750726178.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750726178.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750726178_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750728115.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750728115.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750728115_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750737723.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750737723.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750737723_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750747092.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750747092.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750747092_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750748849.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750748849.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750748849_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750760634.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750760634.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750760634_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750766172.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750766172.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750766172_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750841581.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750841581.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750841581_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750866765.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750866765.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750866765_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750871494.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750871494.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750871494_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750874739.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750874739.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750874739_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750898497.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750898497.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750898497_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750901490.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750901490.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750901490_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750907155.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750907155.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750907155_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750915488.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750915488.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750915488_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750947122.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750947122.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750947122_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1.Menu1UiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750953084.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750953084.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.Menu1_Menu1UiBinderImpl_designTime1430750953084_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2743 units from cache.
+Compiling...
+   20% complete (ETR: 13 seconds)
+   20% complete (ETR: 13 seconds)
+   20% complete (ETR: 12 seconds)
+   30% complete (ETR: 14 seconds)
+   40% complete (ETR: 12 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 20,52 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/WUI.java'
+      Line 17: Menu1 cannot be resolved to a type
+      Line 17: Menu1 cannot be resolved to a type
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751327057.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751327057.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751327057_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751327460.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751327460.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751327460_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751385968.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751385968.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751385968_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2742 cached/archived units.  Used 2742 / 2743 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/WUI.java'
+      Line 17: Menu1 cannot be resolved to a type
+      Line 17: Menu1 cannot be resolved to a type
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 1,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751458640.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751458640.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751458640_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751459978.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751459978.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751459978_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2742 cached/archived units.  Used 2742 / 2743 units from cache.
+Compiling...
+   Compilation completed in 0,02 seconds
+Validating units:
+   Errors in 'file:/C:/Users/Alexander/git/WUI/CDIO3/src/cdio3/client/WUI.java'
+      Line 17: Menu1 cannot be resolved to a type
+      Line 17: Menu1 cannot be resolved to a type
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751491576.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751491576.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751491576_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751491985.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751491985.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751491985_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751509890.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751509890.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751509890_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751509983.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751509983.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751509983_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751516838.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751516838.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751516838_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751517808.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751517808.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751517808_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751518383.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751518383.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751518383_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751519282.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751519282.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751519282_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751519882.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751519882.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751519882_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751520767.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751520767.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751520767_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751521229.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751521229.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751521229_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751618138.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751618138.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751618138_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751619723.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751619723.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751619723_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751641793.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751641793.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751641793_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751645771.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751645771.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751645771_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751656756.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751656756.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751656756_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751661891.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751661891.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751661891_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751663916.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751663916.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751663916_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 1,27 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751675673.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751675673.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751675673_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout.MenuLoggedoutUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751686367.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751686367.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding cdio3.client.MenuLoggedout_MenuLoggedoutUiBinderImpl_designTime1430751686367_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,39 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes

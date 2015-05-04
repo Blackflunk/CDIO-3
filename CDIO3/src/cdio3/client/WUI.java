@@ -14,7 +14,8 @@ public class WUI extends Composite implements IWUI {
 		initWidget(this.vPanel);
 		this.vPanel.setBorderWidth(1);
 		
-		Menu menu = new Menu(this);
+		MenuLoggedout menu = new MenuLoggedout();
+		menu.CreateAccount.addClickHandler(handler);
 		this.vPanel.add(menu);
 		
 		this.contentPanel = new VerticalPanel();
