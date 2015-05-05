@@ -10,31 +10,20 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 public class WUI extends Composite implements IWUI {
 	private VerticalPanel vPanel = new VerticalPanel();
 	private VerticalPanel contentPanel;
+	MenuBar menu;
 	
 	
 	public WUI() {
 		initWidget(this.vPanel);
 		this.vPanel.setBorderWidth(1);
+		this.vPanel.setWidth("600px");
 		
-		MenuLoggedout menu = new MenuLoggedout();
-		menu.login.addClickHandler(new LoginClickHandler());
+		menu = new MenuBar(this);
 		this.vPanel.add(menu);
 		
 		this.contentPanel = new VerticalPanel();
 		this.vPanel.add(contentPanel);
 		
-		Label textLabel = new Label("Tryk en knap for at se et landskab!");
-		this.contentPanel.add(textLabel);
-	}
-
-
-	private class LoginClickHandler implements ClickHandler {
-
-		@Override
-		public void onClick(ClickEvent event) {
-			openLoginAccount();
-				
-		}
 	}
 	
 	@Override

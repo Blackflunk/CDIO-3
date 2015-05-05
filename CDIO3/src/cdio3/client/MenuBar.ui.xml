@@ -1,0 +1,24 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+	
+	</ui:style>
+	<g:HTMLPanel>
+		<g:MenuBar ui:field="menubar">
+			<g:MenuItem text="Login" ui:field="login"/>
+			<g:MenuItem text="Create Account" ui:field="createaccount"/>
+			<g:MenuItem text="Exit" ui:field="exit"/>
+			<g:MenuItem text="Logout" ui:field="logout"/>
+			<g:MenuItem text="Account Management" ui:field="accountmanagement"/>
+			<g:MenuItem text="Adminstrations Menu" ui:field="adminmenu">
+				<g:MenuBar vertical="true">
+					<g:MenuItem text="Opret Bruger" ui:field="createuser"/>
+					<g:MenuItem text="Opdater Bruger" ui:field="updateuser"/>
+					<g:MenuItem text="Slet Bruger" ui:field="deluser"/>
+				</g:MenuBar>
+			</g:MenuItem>
+			<g:MenuItem text="Operatør Liste" ui:field="oplist"/>
+		</g:MenuBar>
+	</g:HTMLPanel>
+</ui:UiBinder> 
