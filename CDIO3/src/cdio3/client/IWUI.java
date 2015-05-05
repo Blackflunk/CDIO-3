@@ -2,13 +2,21 @@ package cdio3.client;
 
 public interface IWUI {
 
+	//Pre login
 	public void openCreateAccount();
 	public void openLoginAccount();
 	
-	public void openAccountManagement();
+	//Post login
 	public void openLogoutAccount();
+	//Account submenu
+	public void openChangePassword();
+	public void openChangeName();
 	
-	public void openExitSite();
-	
+	//Admin menu
+	public void openOperatorList();
+	//Admin submenu
+	public void openCreateUser();
+	public void openUpdateUser();
+	public void openDeleteUser();
 }
  

@@ -8,9 +8,13 @@
 		<g:MenuBar ui:field="menubar">
 			<g:MenuItem text="Login" ui:field="login"/>
 			<g:MenuItem text="Create Account" ui:field="createaccount"/>
-			<g:MenuItem text="Exit" ui:field="exit"/>
+			<g:MenuItem text="Bruger Indstillinger" ui:field="accountmanagement">
+				<g:MenuBar vertical="true">
+					<g:MenuItem text="Ændre Navn" ui:field="changename"/>
+					<g:MenuItem text="Ændre Kodeord" ui:field="changepassword"/>
+				</g:MenuBar>
+			</g:MenuItem>
 			<g:MenuItem text="Logout" ui:field="logout"/>
-			<g:MenuItem text="Account Management" ui:field="accountmanagement"/>
 			<g:MenuItem text="Adminstrations Menu" ui:field="adminmenu">
 				<g:MenuBar vertical="true">
 					<g:MenuItem text="Opret Bruger" ui:field="createuser"/>

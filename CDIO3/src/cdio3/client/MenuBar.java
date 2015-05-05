@@ -13,18 +13,18 @@ public class MenuBar extends Composite {
 
 	private static MenuBarUiBinder uiBinder = GWT.create(MenuBarUiBinder.class);
 	private WUI wui;
-	boolean running = true;
 	@UiField MenuItem login;
 	@UiField MenuItem createaccount;
-	@UiField MenuItem exit;
 	@UiField com.google.gwt.user.client.ui.MenuBar menubar;
-	@UiField MenuItem accountmanagement;
 	@UiField MenuItem logout;
 	@UiField MenuItem adminmenu;
 	@UiField MenuItem createuser;
 	@UiField MenuItem oplist;
 	@UiField MenuItem updateuser;
 	@UiField MenuItem deluser;
+	@UiField MenuItem accountmanagement;
+	@UiField MenuItem changename;
+	@UiField MenuItem changepassword;
 
 	interface MenuBarUiBinder extends UiBinder<Widget, MenuBar> {
 	}
@@ -35,9 +35,13 @@ public class MenuBar extends Composite {
 		
 		login.setScheduledCommand(cmd_login);
 		createaccount.setScheduledCommand(cmd_createaccount);
-		exit.setScheduledCommand(cmd_exit);	
-		accountmanagement.setScheduledCommand(cmd_accountmanagement);
 		logout.setScheduledCommand(cmd_logout);
+		createuser.setScheduledCommand(cmd_createuser);
+		oplist.setScheduledCommand(cmd_oplist);
+		updateuser.setScheduledCommand(cmd_updateuser);
+		deluser.setScheduledCommand(cmd_deluser);
+		changename.setScheduledCommand(cmd_changename);
+		changepassword.setScheduledCommand(cmd_changepassword);
 		
 	}
 	
@@ -67,13 +71,6 @@ public class MenuBar extends Composite {
 		}
 	};
 	
-	Command cmd_exit= new Command(){ 
-		@Override
-		public void execute() {
-			wui.openExitSite();
-		}
-	};
-	
 	Command cmd_logout= new Command(){ 
 		@Override
 		public void execute() {
@@ -81,10 +78,45 @@ public class MenuBar extends Composite {
 		}
 	};
 	
-	Command cmd_accountmanagement= new Command(){ 
+	Command cmd_createuser= new Command(){ 
 		@Override
 		public void execute() {
-			wui.openAccountManagement();
+			wui.openCreateUser();
+		}
+	};
+	
+	Command cmd_oplist= new Command(){ 
+		@Override
+		public void execute() {
+			wui.openOperatorList();
+		}
+	};
+	
+	Command cmd_updateuser= new Command(){ 
+		@Override
+		public void execute() {
+			wui.openUpdateUser();
+		}
+	};
+	
+	Command cmd_deluser= new Command(){ 
+		@Override
+		public void execute() {
+			wui.openDeleteUser();
+		}
+	};
+	
+	Command cmd_changepassword= new Command(){ 
+		@Override
+		public void execute() {
+			wui.openChangePassword();
+		}
+	};
+	
+	Command cmd_changename= new Command(){ 
+		@Override
+		public void execute() {
+			wui.openChangeName();
 		}
 	};
 
@@ -93,7 +125,6 @@ public class MenuBar extends Composite {
 		menubar.setVisible(true);
 		menubar.insertItem(login, 0);
 		menubar.insertItem(createaccount, 1);
-		menubar.insertItem(exit, 2);
 	}
 	
 	public void loggedinMenu(boolean operatoer){
