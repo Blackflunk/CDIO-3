@@ -15,7 +15,7 @@ public class Main implements EntryPoint {
 	public void onModuleLoad() {
 		WUI wui = new WUI();
 		RootPanel.get().add(wui);
-		wui.menu.InitMenu();
+		wui.menu.InitMenu(false,false);
 			
 	}
 }

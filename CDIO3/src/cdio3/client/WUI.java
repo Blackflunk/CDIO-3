@@ -11,6 +11,8 @@ public class WUI extends Composite implements IWUI {
 	private VerticalPanel vPanel = new VerticalPanel();
 	private VerticalPanel contentPanel;
 	MenuBar menu;
+	boolean loggedin = false;
+	boolean operatoer = false;
 	
 	
 	public WUI() {
@@ -40,8 +42,10 @@ public class WUI extends Composite implements IWUI {
 	@Override
 	// En mulighed før brugeren er logget ind.
 	public void openLoginAccount() {
+		loggedin = true;
 		this.contentPanel.clear();
-		Label textLabel = new Label("Her kan du logge ind.");
+		menu.InitMenu(loggedin, operatoer);
+		Label textLabel = new Label("Du er logget ind.");
 		this.contentPanel.add(textLabel);
 		
 	}
@@ -70,7 +74,9 @@ public class WUI extends Composite implements IWUI {
 	@Override
 	// En mulighed når brugeren er logget ind.
 	public void openLogoutAccount() {
+		loggedin = false;
 		this.contentPanel.clear();
+		menu.InitMenu(loggedin, operatoer);
 		Label textLabel = new Label("Du er logget ud.");
 		this.contentPanel.add(textLabel);
 	}

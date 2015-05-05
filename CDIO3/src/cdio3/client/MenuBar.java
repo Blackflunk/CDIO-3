@@ -13,8 +13,6 @@ public class MenuBar extends Composite {
 
 	private static MenuBarUiBinder uiBinder = GWT.create(MenuBarUiBinder.class);
 	private WUI wui;
-	boolean loggedin = true;
-	boolean operatoer = true;
 	boolean running = true;
 	@UiField MenuItem login;
 	@UiField MenuItem createaccount;
@@ -43,9 +41,10 @@ public class MenuBar extends Composite {
 		
 	}
 	
-	public void InitMenu(){
+	//Initialiserer menuen
+	public void InitMenu(boolean loggedin, boolean operatoer){
 			if(loggedin){
-				loggedinMenu();
+				loggedinMenu(operatoer);
 			}
 			else{
 				loggedoutMenu();
@@ -89,14 +88,6 @@ public class MenuBar extends Composite {
 		}
 	};
 
-	public boolean isLoggedin() {
-		return loggedin;
-	}
-
-	public void setLoggedin(boolean loggedin) {
-		this.loggedin = loggedin;
-	}
-	
 	public void loggedoutMenu(){
 		menubar.clearItems();
 		menubar.setVisible(true);
@@ -105,7 +96,7 @@ public class MenuBar extends Composite {
 		menubar.insertItem(exit, 2);
 	}
 	
-	public void loggedinMenu(){
+	public void loggedinMenu(boolean operatoer){
 		menubar.clearItems();
 		menubar.setVisible(true);
 		menubar.insertItem(logout, 0);
