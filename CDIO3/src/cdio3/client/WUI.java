@@ -1,5 +1,7 @@
 package cdio3.client;
 
+import com.google.gwt.event.dom.client.ClickEvent;
+import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.TextBox;
@@ -15,7 +17,7 @@ public class WUI extends Composite implements IWUI {
 		this.vPanel.setBorderWidth(1);
 		
 		MenuLoggedout menu = new MenuLoggedout();
-		menu.CreateAccount.addClickHandler(handler);
+		menu.login.addClickHandler(new LoginClickHandler());
 		this.vPanel.add(menu);
 		
 		this.contentPanel = new VerticalPanel();
@@ -26,6 +28,15 @@ public class WUI extends Composite implements IWUI {
 	}
 
 
+	private class LoginClickHandler implements ClickHandler {
+
+		@Override
+		public void onClick(ClickEvent event) {
+			openLoginAccount();
+				
+		}
+	}
+	
 	@Override
 	// En mulighed før brugeren er logget ind.
 	public void openCreateAccount() {
