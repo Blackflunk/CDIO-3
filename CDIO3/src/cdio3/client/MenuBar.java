@@ -7,6 +7,7 @@ import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.Widget;
 import com.google.gwt.uibinder.client.UiField;
 import com.google.gwt.user.client.ui.MenuItem;
+import com.google.gwt.user.client.ui.Button;
 
 public class MenuBar extends Composite {
 	

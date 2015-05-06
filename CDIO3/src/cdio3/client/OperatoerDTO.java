@@ -1,6 +1,6 @@
-package cdio3.data;
+package cdio3.client;
 
-import cdio3.data.OperatoerDTO;
+import cdio3.client.OperatoerDTO;
 
 /**
  * Operatoer Data Access Object

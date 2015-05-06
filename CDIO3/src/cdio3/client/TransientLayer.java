@@ -1,7 +1,5 @@
-package cdio3.functionality;
+package cdio3.client;
 import java.util.ArrayList;
-
-import cdio3.data.OperatoerDTO;
 public class TransientLayer {
 	ArrayList<OperatoerDTO> oprList = new ArrayList<OperatoerDTO>();
 	OperatoerDTO opr;
