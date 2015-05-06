@@ -20,7 +20,8 @@ public class WUI extends Composite implements IWUI {
 	//Text
 	Label accdesc = new Label("Skriv brugernavn:");
 	Label passdesc = new Label("Skriv adgangskode: ");
-	Label fejllogin = new Label("Der er opstået en fejl i login.");
+	Label loginfailed = new Label("Der er opstået en fejl i login.");
+	Label loginsucces = new Label("Du er nu logget ind.");
 
 	//Input boxes
 	TextBox textbox = new TextBox();
@@ -139,6 +140,8 @@ public class WUI extends Composite implements IWUI {
 					if(oprList.get(i).getPassword().equals(password)){
 						loggedin = true;
 						menu.InitMenu(loggedin, operatoer);
+						contentPanel.clear();
+						contentPanel.add(loginsucces);
 						break;
 					}
 					else{
