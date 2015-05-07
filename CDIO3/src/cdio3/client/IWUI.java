@@ -18,5 +18,9 @@ public interface IWUI {
 	public void openCreateUser();
 	public void openUpdateUser();
 	public void openDeleteUser();
+	public void setAccountname(String accountname);
+	public String getAccountname();
+	public String getPassword();
+	public void setPassword(String password);
 }
  
