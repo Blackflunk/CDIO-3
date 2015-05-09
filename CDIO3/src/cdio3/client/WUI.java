@@ -1,4 +1,4 @@
-package cdio3.client;
+ package cdio3.client;
 
 import java.util.ArrayList;
 
@@ -24,8 +24,8 @@ public class WUI extends Composite implements IWUI {
 	Label loginsucces = new Label("Du er nu logget ind.");
 	Label chngpswdcomment = new Label("Hvad vil du ændre din adgangskode til?");
 	Label chngnamecomment = new Label("Hvad vil du ændre dit navn til?");
-	Label chngpswdsuccess = new Label("Du har nu ændret dit kodeord.");
-	Label chngnamesuccess = new Label("Du har nu ændret dit navn");
+	Label chngpswdsuccess = new Label("Du har nu ændret kodeord.");
+	Label chngnamesuccess = new Label("Du har nu ændret navn.");
 	Label oprdelsuccess = new Label ("Brugeren er nu slettet.");
 	Label usernotfound = new Label ("Brugeren blev ikke fundet");
 	Label createusercomment = new Label ("Opret bruger nedenfor:");
@@ -35,6 +35,9 @@ public class WUI extends Composite implements IWUI {
 	Label createuserini = new Label ("Indtast initialer: ");
 	Label createusercpr = new Label ("Indtast brugerens cpr nummer: ");
 	Label createusersuccess = new Label ("Brugeren er nu oprettet.");
+	Label changeuseracc = new Label ("Indtast brugerens navn: ");
+	Label changeuseraccnew = new Label ("Indtast brugerens nye navn: ");
+	Label changeuserpassnew = new Label ("Indtast brugerens nye kodeord: ");
 	
 	//Input boxes
 	TextBox textbox = new TextBox();
@@ -48,6 +51,9 @@ public class WUI extends Composite implements IWUI {
 	PasswordTextBox createuserpassio = new PasswordTextBox ();
 	TextBox createuseriniio = new TextBox ();
 	TextBox createusercprio = new TextBox ();
+	TextBox updateuserAccOld = new TextBox();
+	TextBox updateuserAccNew = new TextBox();
+	PasswordTextBox updateuserPassNew = new PasswordTextBox();
 
 	//Variables
 	boolean loggedin = false;
@@ -66,6 +72,8 @@ public class WUI extends Composite implements IWUI {
 	Button chngnamebtn = new Button();
 	Button delbtn = new Button();
 	Button createbtn = new Button();
+	Button adminchnguserbtn = new Button();
+	Button adminchngpassbtn = new Button();
 
 
 	public WUI() {
@@ -106,6 +114,30 @@ public class WUI extends Composite implements IWUI {
 		this.contentPanel.add(loginbtn);
 	}
 
+	
+	@Override
+	public void openAdminUpdateUserAcc() {
+		this.contentPanel.clear();
+		adminchnguserbtn.addClickHandler(new updateaccClickHandler());
+		adminchnguserbtn.setText("Send");
+		this.contentPanel.add(changeuseracc);
+		this.contentPanel.add(updateuserAccOld);
+		this.contentPanel.add(changeuseraccnew);
+		this.contentPanel.add(updateuserAccNew);
+		this.contentPanel.add(adminchnguserbtn);
+	}
+
+	@Override
+	public void openAdminUpdateUserPass() {
+		this.contentPanel.clear();
+		adminchngpassbtn.addClickHandler(new updatepassClickHandler());
+		adminchngpassbtn.setText("Send");
+		this.contentPanel.add(changeuseracc);
+		this.contentPanel.add(updateuserAccOld);
+		this.contentPanel.add(changeuserpassnew);
+		this.contentPanel.add(updateuserPassNew);
+		this.contentPanel.add(adminchngpassbtn);
+	}
 
 	@Override
 	// En mulighed når brugeren er logget ind.
@@ -217,6 +249,39 @@ public class WUI extends Composite implements IWUI {
 		this.password = password;
 	}
 	
+	private class updateaccClickHandler implements ClickHandler{
+		public void onClick(ClickEvent event){
+			if (loggedin && operatoer){
+				int i = 0;
+					while(!oprList.isEmpty()){
+						if(oprList.get(i).getOprNavn().equals(updateuserAccOld.getValue())){
+							oprList.get(i).setOprNavn(updateuserAccNew.getValue());
+							contentPanel.add(chngnamesuccess);
+							break;
+						}
+						i++;
+					}
+				
+				}
+			}
+		}
+	
+	private class updatepassClickHandler implements ClickHandler{
+		public void onClick(ClickEvent event){
+			if (loggedin && operatoer){
+				int i = 0;
+					while(!oprList.isEmpty()){
+						if(oprList.get(i).getOprNavn().equals(updateuserAccOld.getValue())){
+							oprList.get(i).setPassword(updateuserPassNew.getValue());
+							contentPanel.add(chngpswdsuccess);
+							break;
+						}
+						i++;
+					}
+				}
+			}
+		}
+	
 	//Create user button handler
 	private class createbtnClickHandler implements ClickHandler{
 		public void onClick(ClickEvent event){
@@ -314,8 +379,4 @@ public class WUI extends Composite implements IWUI {
 
 		}
 	}
-
-
-
-
 }

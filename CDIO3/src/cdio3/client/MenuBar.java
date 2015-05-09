@@ -21,11 +21,13 @@ public class MenuBar extends Composite {
 	@UiField MenuItem adminmenu;
 	@UiField MenuItem createuser;
 	@UiField MenuItem oplist;
-	@UiField MenuItem updateuser;
 	@UiField MenuItem deluser;
 	@UiField MenuItem accountmanagement;
 	@UiField MenuItem changename;
 	@UiField MenuItem changepassword;
+	@UiField MenuItem updateuser;
+	@UiField MenuItem adminupdateacc;
+	@UiField MenuItem adminupdatepass;
 
 	interface MenuBarUiBinder extends UiBinder<Widget, MenuBar> {
 	}
@@ -43,6 +45,9 @@ public class MenuBar extends Composite {
 		deluser.setScheduledCommand(cmd_deluser);
 		changename.setScheduledCommand(cmd_changename);
 		changepassword.setScheduledCommand(cmd_changepassword);
+		adminupdateacc.setScheduledCommand(cmd_adminupdateacc);
+		adminupdatepass.setScheduledCommand(cmd_adminupdatepass);
+		
 		
 	}
 	
@@ -55,7 +60,20 @@ public class MenuBar extends Composite {
 				loggedoutMenu();
 			}
 	}
-		
+	
+	Command cmd_adminupdateacc = new Command(){
+		@Override
+		public void execute() {
+			wui.openAdminUpdateUserAcc();
+		}
+	};
+	
+	Command cmd_adminupdatepass = new Command(){
+		@Override
+		public void execute() {
+			wui.openAdminUpdateUserPass();
+		}
+	};
 	
 	Command cmd_login= new Command(){ 
 		@Override

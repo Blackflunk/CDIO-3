@@ -18,7 +18,12 @@
 			<g:MenuItem text="Adminstrations Menu" ui:field="adminmenu">
 				<g:MenuBar vertical="true">
 					<g:MenuItem text="Opret Bruger" ui:field="createuser"/>
-					<g:MenuItem text="Opdater Bruger" ui:field="updateuser"/>
+					<g:MenuItem text="Opdater Bruger" ui:field="updateuser">
+						<g:MenuBar vertical="true">
+							<g:MenuItem text="Opdater Brugernavn" ui:field="adminupdateacc"/>
+							<g:MenuItem text="Opdater Kodeord" ui:field="adminupdatepass"/>
+						</g:MenuBar>
+					</g:MenuItem>
 					<g:MenuItem text="Slet Bruger" ui:field="deluser"/>
 				</g:MenuBar>
 			</g:MenuItem>
