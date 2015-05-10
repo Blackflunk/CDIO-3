@@ -81,8 +81,8 @@ public class WUI extends Composite implements IWUI {
 
 		oprList = brugere.getTransientDB();
 		
-		this.vPanel.setBorderWidth(1);
-		this.vPanel.setWidth("600px");
+		this.vPanel.setBorderWidth(0);
+		this.vPanel.setWidth("550px");
 
 		menu = new MenuBar(this);
 		this.vPanel.add(menu);
@@ -95,8 +95,21 @@ public class WUI extends Composite implements IWUI {
 	@Override
 	// En mulighed før brugeren er logget ind.
 	public void openCreateAccount() {
-		this.contentPanel.clear();
-		this.contentPanel.add(textbox);
+		contentPanel.clear();
+		contentPanel.add(createusercomment);
+		contentPanel.add(createuseracc);
+		contentPanel.add(createuseraccio);
+		contentPanel.add(createuserpass);
+		contentPanel.add(createuserpassio);
+		contentPanel.add(createuserini);
+		contentPanel.add(createuseriniio);
+		contentPanel.add(createusercpr);
+		contentPanel.add(createusercprio);
+		contentPanel.add(createuserid);
+		contentPanel.add(createuseridio);
+		createbtn.addClickHandler(new createbtnClickHandler());
+		createbtn.setText("Send");
+		contentPanel.add(createbtn);
 	}
 
 
@@ -205,8 +218,6 @@ public class WUI extends Composite implements IWUI {
 		createbtn.addClickHandler(new createbtnClickHandler());
 		createbtn.setText("Send");
 		contentPanel.add(createbtn);
-		
-		
 	}
 
 	@Override
@@ -285,11 +296,9 @@ public class WUI extends Composite implements IWUI {
 	//Create user button handler
 	private class createbtnClickHandler implements ClickHandler{
 		public void onClick(ClickEvent event){
-			if (loggedin && operatoer){
 				OperatoerDTO newuser = new OperatoerDTO(Integer.parseInt(createuseridio.getValue()), createuseraccio.getValue(), createuseriniio.getValue(), createusercprio.getValue(), createuserpassio.getValue());
 				oprList.add(newuser);
 				contentPanel.add(createusersuccess);
-			}
 		}
 	}
 	

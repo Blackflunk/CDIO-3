@@ -13,8 +13,8 @@ public class Main implements EntryPoint {
 	 * This is the entry point method.
 	 */
 	public void onModuleLoad() {
-		WUI wui = new WUI();
-		RootPanel.get().add(wui);
+		WUI wui = new WUI(); 
+		RootPanel.get("content").add(wui);
 		wui.menu.InitMenu(false,false);
 			
 	}
